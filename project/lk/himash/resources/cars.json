@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "cost": 20000,
+        "status": "Available"
+    },
+    {
+        "id": 2,
+        "brand": "Honda",
+        "model": "Civic",
+        "cost": 22000,
+        "status": "Sold"
+    },
+    {
+        "id": 3,
+        "brand": "Ford",
+        "model": "Mustang",
+        "cost": 35000,
+        "status": "Available"
+    },
+    {
+        "id": 4,
+        "brand": "Chevrolet",
+        "model": "Camaro",
+        "cost": 33000,
+        "status": "Sold"
+    },
+    {
+        "id": 5,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "cost": 45000,
+        "status": "Available"
+    },
+    {
+        "id": 6,
+        "brand": "BMW",
+        "model": "X5",
+        "cost": 60000,
+        "status": "Available"
+    },
+    {
+        "id": 7,
+        "brand": "Audi",
+        "model": "A4",
+        "cost": 40000,
+        "status": "Sold"
+    },
+    {
+        "id": 8,
+        "brand": "Mercedes",
+        "model": "C-Class",
+        "cost": 55000,
+        "status": "Available"
+    },
+    {
+        "id": 9,
+        "brand": "Nissan",
+        "model": "Altima",
+        "cost": 24000,
+        "status": "Sold"
+    },
+    {
+        "id": 10,
+        "brand": "Hyundai",
+        "model": "Elantra",
+        "cost": 21000,
+        "status": "Available"
+    }
+]

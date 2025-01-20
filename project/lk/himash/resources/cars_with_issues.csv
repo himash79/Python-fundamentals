@@ -1,0 +1,11 @@
+id,brand,model,cost,status
+1,Toyota,Corolla,20000,Available
+2,Honda,NULL,5000,Sold
+3,Ford,,35000,Available
+4,Chevrolet,Camaro,,Sold
+5,Tesla,Model 3,45000,
+6,NULL,X5,60000,Available
+7,Audi,A4,40000,Sold
+8,Mercedes,C-Class,NaN,Available
+Nine,Nissan,Altima,24000,Sold
+10,Hyundai,Elantra,21000,Available
